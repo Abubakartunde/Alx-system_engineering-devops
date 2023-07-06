@@ -1,2 +1,2 @@
 #!/bin/bash
-u=rwx,g=rx,o=wx hello
+u=rwx g=rx o=wx hello
